@@ -1,3 +1,5 @@
+package app;
+
 import app.service.ObserverPattern;
 
 public class Main {
